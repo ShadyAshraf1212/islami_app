@@ -1,32 +1,33 @@
- import 'package:flutter/material.dart';
 
 class AppAssets {
   //todo:icons & logo
-  static  Image islamiLogo = Image.asset('assets/images/islami_logo.png');
-  static  Image timeIcon = Image.asset('assets/images/time_icon.png');
-  static  Image sebhaIcon = Image.asset('assets/images/sebha_icon.png');
-  static  Image radioIcon = Image.asset('assets/images/radio_icon.png');
-  static  Image quranIcon = Image.asset('assets/images/quran_icon.png');
-  static  Image hadethIcon = Image.asset('assets/images/hadeth_icon.png');
+  static  String islamiLogo = 'assets/images/islami_logo.png';
+  static  String timeIcon = 'assets/images/time_icon.png';
+  static  String sebhaIcon = 'assets/images/sebha_icon.png';
+  static  String radioIcon = 'assets/images/radio_icon.png';
+  static  String quranIcon = 'assets/images/quran_icon.png';
+  static  String hadethIcon = 'assets/images/hadeth_icon.png';
   //todo:background images
-  static  Image timeBg = Image.asset('assets/images/time_bg.png');
-  static  Image quranBg = Image.asset('assets/images/home_screenBg.png');
-  static  Image hadethCardBg = Image.asset('assets/images/hadith_cardBg.png');
-  static  Image hadethBg = Image.asset('assets/images/hadethBg.png');
-  static  Image radioBg = Image.asset('assets/images/radio_bg.png');
-  static  Image sebhaBg = Image.asset('assets/images/sebha_bg.png');
+  static  String timeBg = 'assets/images/time_bg.png';
+  static  String quranBg = 'assets/images/home_screenBg.png';
+  static  String hadethCardBg = 'assets/images/hadith_cardBg.png';
+  static  String hadethBg = 'assets/images/hadethBg.png';
+  static  String radioBg = 'assets/images/radio_bg.png';
+  static  String sebhaBg = 'assets/images/sebha_bg.png';
+  static  String mostRecentCard = 'assets/images/most_recent_card.png';
   //todo:
-  static  Image cornerLeft = Image.asset('assets/images/corner_left.png');
-  static  Image cornerRight = Image.asset('assets/images/corner_right.png');
-  static  Image mosqueHadeth = Image.asset('assets/images/mosque_hadeth.png');
-  static  Image mosqueSuraDetails = Image.asset('assets/images/mosque_sura_details.png');
+  static  String cornerLeft = 'assets/images/corner_left.png';
+  static  String cornerRight = 'assets/images/corner_right.png';
+  static  String starNum = 'assets/images/star_num.png';
+  static  String mosqueHadeth = 'assets/images/mosque_hadeth.png';
+  static  String mosqueSuraDetails = 'assets/images/mosque_sura_details.png';
   //todo:screens
-  static  Image splash = Image.asset('assets/images/splash_screen.png');
-  static  Image intro1 = Image.asset('assets/images/intro1_screen.png');
-  static  Image intro2 = Image.asset('assets/images/intro2_screen.png');
-  static  Image intro3 = Image.asset('assets/images/intro3_screen.png');
-  static  Image intro4 = Image.asset('assets/images/intro4_screen.png');
-  static  Image intro5 = Image.asset('assets/images/intro5_screen.png');
+  static  String splash = 'assets/images/splash_screen.png';
+  static  String intro1 = 'assets/images/intro1_screen.png';
+  static  String intro2 = 'assets/images/intro2_screen.png';
+  static  String intro3 = 'assets/images/intro3_screen.png';
+  static  String intro4 ='assets/images/intro4_screen.png';
+  static  String intro5 = 'assets/images/intro5_screen.png';
 }
 
 
